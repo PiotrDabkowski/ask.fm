@@ -1,0 +1,9 @@
+wxPython
+requests
+beautifulsoup4
+pycrypto
+ntplib
+mechanize
+httplib2
+selenium
+Pillow
